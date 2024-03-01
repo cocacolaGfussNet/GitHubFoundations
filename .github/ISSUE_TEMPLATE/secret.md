@@ -1,3 +1,1 @@
 ## Testing Issue Templates
-
-:celebrate:
