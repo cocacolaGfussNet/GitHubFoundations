@@ -1,0 +1,4 @@
+# Add 'AnyChange label' label to any changes within the entire repository
+AnyChangeLabel:
+- changed-files:
+  - any-glob-to-any-file: '**'
